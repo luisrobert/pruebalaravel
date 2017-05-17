@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Prueba
+        psr4_prefix: Prueba
+        src_path: app

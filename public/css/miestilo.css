@@ -1,0 +1,12 @@
+.banneradmin {
+    
+  height: 10em;  
+  background-color:  transparent;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+    background-image: url(../images/banner0.JPG);
+  border: 0px solid black;
+  background-position: 0% 0%;
+    
+    } 
