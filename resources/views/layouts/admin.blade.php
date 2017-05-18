@@ -69,7 +69,7 @@
       </div>
     </div>
 
-    <div class="container frojo">
+    <div class="container fverde">
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-4">
